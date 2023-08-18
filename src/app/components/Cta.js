@@ -2,9 +2,9 @@ import React from 'react'
 
 const Cta = () => {
   return (
-    <div>
-      
-    </div>
+    <section className='pt-24 xl:pt-48 flex items-end pb-8 bg-[#b2b7c2]/10' id='contact'> 
+      Cta
+    </section>
   )
 }
 
